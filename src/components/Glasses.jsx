@@ -14,7 +14,7 @@ class Glasses extends Component {
         this.setState({
           glassImg: "./img/glassesImage/v1.png",
           glassCost: "$30",
-          glassName: "GUCCI G8850U",
+          glassName: "Kính kim cương",
         });
 
         break;
