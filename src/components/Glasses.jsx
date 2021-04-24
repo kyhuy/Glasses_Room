@@ -38,7 +38,7 @@ class Glasses extends Component {
         this.setState({
           glassImg: "./img/glassesImage/v4.png",
           glassCost: "$30",
-          glassName: "DIOR D6005U",
+          glassName: "Kính cận ",
         });
 
         break;
@@ -62,7 +62,7 @@ class Glasses extends Component {
         this.setState({
           glassImg: "./img/glassesImage/v7.png",
           glassCost: "$50",
-          glassName: "GUCCI G8759H",
+          glassName: "Kính Lão",
         });
 
         break;
@@ -78,7 +78,7 @@ class Glasses extends Component {
         this.setState({
           glassImg: "./img/glassesImage/v9.png",
           glassCost: "$50",
-          glassName: "GUCCI G8759H",
+          glassName: "Kính Nobita",
         });
 
         break;
